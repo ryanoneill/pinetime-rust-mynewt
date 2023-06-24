@@ -879,3 +879,4 @@ Legacy modules for Mynewt that are not used...
 - [`libs/temp_stub`](libs/temp_stub): Mynewt Driver for Stub Temperature Sensor that returns a fixed value
 
 - [`libs/tiny_gps_plus`](libs/tiny_gps_plus): TinyGPS++ Library ported from Arduino. Used by `gps_l70r` GPS driver.
+
